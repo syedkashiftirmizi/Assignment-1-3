@@ -295,7 +295,7 @@ and less than or equal to
 • Test whether an item is in a array
 • Test whether an item is not in a array */
 
-const favPak_place: string= "Islamabad";
+let favPak_place: string= "Islamabad";
 
 console.log("Is the Favorite Place 'Islamabad'? I predict True.");
 console.log(favPak_place === 'Islamabad');
